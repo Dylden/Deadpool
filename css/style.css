@@ -1,0 +1,43 @@
+@font-face {
+    font-family: deadpool;
+    src: url("../font/roguehero.ttf");
+}
+
+body{
+    font-family: deadpool, sans-serif;
+ 
+}
+
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header{
+    background-image: url("../img/deadpoolFond.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
+.dpBar{
+    background-color: rgb(156, 1, 1);
+}
+
+.dpBarNav{
+    background-color: black;
+}
+
+.comicBg{
+    background-color: rgb(120, 181, 30);
+}
+
+h2{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
